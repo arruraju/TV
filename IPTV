@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1, AUS TAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png" - TAMIL VISION TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1, ADHAVAN TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1050439537.m3u8
+#EXTINF:-1, ADHAVAN HD TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1, IBC TAMIL
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1, IBC MUSIC
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
+#EXTINF:-1, IBC COMEDY
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1, 3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1,Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1,Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1,7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1,Thalapathy TV
+http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
+#EXTINF:-1,Aarya Premiere
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+#EXTINF:-1,Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1,Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1, ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1, ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1,Pakalavan TV
+https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:-1,MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1,MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1,EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1, WORLD TAMIL TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://haritv.com/images/logo.png" - HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://sangamamtv.com/images/logo%20header%20banner.png" - Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1,Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" - Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1,Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1, JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" - SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="https://www.meenakshitv.in/images/logo.png" - MEENAKSHI TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
+#EXTINF:-1,Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="www.bharathitv.com/images/logo.png" - BARATHI TV
+http://182.75.50.131:1935/live/bharathi/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png" - AASAI TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://www.vanaviltv.in/images/PLUS1_001_00299.png" - Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="https://i.ytimg.com/vi/R-ZPWaVxX8M/hqdefault.jpg" - VIDIYAL TV
+http://account7.livebox.co.in/vidiyaltvhls/live.m3u8
+#EXTINF:-1,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,Akaram Mix
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:-1,Kalaignar TV 
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1,Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1,Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1,Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1,SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1,Aarya Premiere
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;News" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" - News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1,Wathanam TV 
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+#EXTINF:-1,Puthuyugam TV  
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1,Adithya TV
+http://uk1.zecast.com:1935/star-live/adithya/index.m3u8
+#EXTINF:-1,Vijay TV
+http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8
+#EXTINF:-1,VijaySuper TV
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/tracks-v1a1/mono.m3u8?token=veera4utv
+#EXTINF:-1,SUN TV HD
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1,KTV TAMIL
+http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
+#EXTINF:-1,Star Vijay
+http://uk4.zecast.com:1935/star-live/vijayhd1/index.m3u8
+#EXTINF:-1,Star Vijay
+https://t.me/WorldFreeLivetvIPTVm3u8
+#EXTINF:-1,Colors Tamil
+http://uk1.zecast.com:1935/star-live/colours/index.m3u8
+#EXTINF:-1,Sun Music Tamil
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
